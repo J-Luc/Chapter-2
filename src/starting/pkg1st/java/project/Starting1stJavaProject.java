@@ -1,0 +1,23 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package starting.pkg1st.java.project;
+
+/**
+ *
+ * @author class
+ */
+public class Starting1stJavaProject {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        system.out;println("*");
+    }
+    
+}
