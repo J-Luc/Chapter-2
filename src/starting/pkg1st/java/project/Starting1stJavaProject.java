@@ -17,7 +17,16 @@ public class Starting1stJavaProject {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        system.out;println("*");
+        System.out.print("   *\n") ;
+        System.out.print("  ***\n");
+        System.out.print(" *****\n");
+        System.out.print("*******\n");
+        System.out.print(" *****\n");
+        System.out.print("  ***\n");
+        System.out.print("   *\n");
+        
+        
     }
+   
     
 }
